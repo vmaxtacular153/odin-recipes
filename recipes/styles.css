@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+img {
+    height: auto;
+    width: 500px;
+    display: block;
+    border-radius: 8px;
+}
